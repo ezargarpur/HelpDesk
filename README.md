@@ -14,8 +14,8 @@ and makes them tangible, instead of just a link.
     -Add notes
     -Add snapshot of the page
     
--Implement with Chrome sync
--Have local copy
+- Implement with Chrome sync
+- Have local copy
 
 
 
